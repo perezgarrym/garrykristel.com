@@ -15,6 +15,6 @@
 <body>
 	<h1>Garry & Kristel</h1>
 	<?php echo 'A day to remember. A promise of forever.';?>
-	<?php echo "<br>pogi ako!";?>
+	<?php echo "<br>asassdsadsdasadd assasdasa!";?>
 </body>
 </html>
